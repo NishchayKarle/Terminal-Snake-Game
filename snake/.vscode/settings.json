@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "demo_game.h": "c",
+        "worm_hole_object.h": "c"
+    }
+}
